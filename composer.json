@@ -1,5 +1,5 @@
 {
-    "name": "hubspot/hubspot-php",
+    "name": "sharefaithdev/hubspot-php",
     "description": "HubSpot PHP API client",
     "keywords": [ "hubspot", "api" ],
     "license": "Apache-2.0",
